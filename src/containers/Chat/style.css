@@ -1,0 +1,14 @@
+#chat-msg{
+  width: 100%;
+  top: 50px;
+  bottom: 100px;
+  position: absolute;
+  overflow: auto;
+} 
+
+#input-item{
+  width: 100%;
+  bottom: 55px;
+  position: absolute;
+  background-color: rgb(255, 185, 254);
+}
